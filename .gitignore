@@ -1,0 +1,5 @@
+node_modules/
+dist/
+wp-plugin/
+.DS_Store
+*.log
